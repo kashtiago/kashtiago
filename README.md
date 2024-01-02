@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kashtiago
-- 👀 I’m interested in large e-commerce witth back end data base programing
+- 👀 I’m interested in large e-commerce with back end database programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through email ashtiago14@gmail.com
+- 📫 How to reach me through email ka
+- shtiago14@gmail.com
 
 <!---
 kashtiago/kashtiago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
